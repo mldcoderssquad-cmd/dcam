@@ -1,9 +1,9 @@
 {
-  "id": "https://mldcoderssquad-cmd.github.io/coer-cam/",
+  "id": "https://mldcoderssquad-cmd.github.io/dcam/",
   "short_name": "GeoCamera",
   "name": "D-Cam",
-  "start_url": "https://mldcoderssquad-cmd.github.io/coer-cam/",
-  "scope": "https://mldcoderssquad-cmd.github.io/coer-cam/",
+  "start_url": "https://mldcoderssquad-cmd.github.io/dcam/",
+  "scope": "https://mldcoderssquad-cmd.github.io/dcam/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0f172a",
