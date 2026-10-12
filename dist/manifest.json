@@ -1,9 +1,9 @@
 {
-  "id": "https://deeplearnersrke.github.io/coer-cam/",
+  "id": "https://mldcoderssquad-cmd.github.io/coer-cam/",
   "short_name": "GeoCamera",
   "name": "D-Cam",
-  "start_url": "https://deeplearnersrke.github.io/coer-cam/",
-  "scope": "https://deeplearnersrke.github.io/coer-cam/",
+  "start_url": "https://mldcoderssquad-cmd.github.io/coer-cam/",
+  "scope": "https://mldcoderssquad-cmd.github.io/coer-cam/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0f172a",
